@@ -1,4 +1,4 @@
-# E-cmommarce App
+# E-commarce App
 Bu proje, React Native kullanılarak geliştirilen modern bir e-ticaret mobil uygulamasıdır.  Uygulama durumu AsyncStorage kullanılarak lokal cihazda saklanır.Kullanıcılar ürünleri sepete ekleyebilir, silebilir veya adetlerini güncelleyebilir. Tüm ekran boyutlarında uyumlu bir kullanıcı arayüzü. 
 
 
